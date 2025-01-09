@@ -26,6 +26,13 @@ Data Source
 
 
 
+
+
+Dashboard Overview
+
+ ![image]( https://github.com/sienayusa/Data-Visualization-Portfolio-Project/blob/main/Sales_Dashboard_Image.PNG)
+
+
 Requirements
 
       •	Power BI Desktop (latest version)
@@ -40,14 +47,7 @@ How to Use
       2. Open the Power BI Desktop application.
       3. Load the `ApocolypseSalesVisualizations.pbix` file from the cloned repository.
 
-
-
-Dashboard Overview
-
- ![image]( https://github.com/sienayusa/Data-Visualization-Portfolio-Project/blob/main/Sales_Dashboard_Image.PNG)
-
-
-
+      
 
 Contributing
 
